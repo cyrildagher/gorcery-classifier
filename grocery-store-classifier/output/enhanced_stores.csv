@@ -1,0 +1,11 @@
+name,product_types,pricing_model,size_sqrt,location,store_type,profit_score,insight
+"Romaguera, Adams and Turner",bulk.discount,discount,1586.2560799,Guinea,bulk_wholesale,,
+Dickens-Sporer,bulk.discount,discount,1810.3171102,Morocco,bulk_wholesale,,
+"Reilly, Satterfield and McLaughlin",bulk.discount,discount,1352.5993609,United States Virgin Islands,bulk_wholesale,,
+Schneider PLC,bulk.discount,discount,1650.2232514,Czech Republic,bulk_wholesale,,
+Wisoky-Maggio,bulk.discount,discount,1678.7771431,Cambodia,bulk_wholesale,,
+"Turner, Corkery and Simonis",bulk.discount,discount,1878.9850298,Benin,bulk_wholesale,,
+Hamill-Schulist,bulk.discount,discount,1785.6409205,Central African Republic,bulk_wholesale,,
+"Yost, Hintz and Harber",bulk.discount,discount,1754.8106807,Singapore,bulk_wholesale,,
+"Green, Schoen and White",bulk.discount,discount,1678.5595947,Argentina,bulk_wholesale,,
+Halvorson-Zboncak,bulk.discount,discount,1402.7196084,Georgia,bulk_wholesale,,
